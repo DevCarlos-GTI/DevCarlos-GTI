@@ -13,4 +13,7 @@
     <img align = "center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align = "center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align = "center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+</div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlos-GTI)](https://github.com/anuraghazra/github-readme-stats)
+
