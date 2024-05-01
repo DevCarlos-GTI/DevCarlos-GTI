@@ -1,5 +1,5 @@
 ### Olá! Sou o Carlos 🖐️
-[![Blog](https://img.shields.io/website?label=DevCarlosgti.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Blog](https://img.shields.io/website?label=DevCarlosgti.com&style=for-the-badge&url=https://devcarlosgti.com/)](https:///devcarlosgti.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devcarlosgti)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devcarlosgti)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c.gleyson.vieira)
